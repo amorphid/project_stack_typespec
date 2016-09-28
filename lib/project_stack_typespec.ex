@@ -1,0 +1,2 @@
+defmodule ProjectStackTypespec do
+end
